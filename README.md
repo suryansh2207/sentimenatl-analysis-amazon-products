@@ -1,4 +1,4 @@
-# sentimenatl-analysis-amazon-products
+# Sentimental Analysis of Amazon product reviews
 
 This new project involves performing sentiment analysis and determining the proportion of words that appear in the title that also appear in the description of the review.
 
